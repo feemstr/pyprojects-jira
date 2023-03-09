@@ -118,7 +118,7 @@ urllib3==1.26.4
     # via requests
 virtualenv==20.4.4
     # via pre-commit
-wheel==0.36.2
+wheel==0.38.1
     # via -r test-requirements.in
 xmlrunner==1.7.7
     # via -r test-requirements.in
