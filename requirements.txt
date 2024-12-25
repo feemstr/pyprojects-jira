@@ -10,7 +10,7 @@ chardet==4.0.0
     # via requests
 defusedxml==0.7.1
     # via jira (setup.cfg)
-idna==2.10
+idna==3.7
     # via requests
 importlib-metadata==4.0.1
     # via keyring
