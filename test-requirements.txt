@@ -44,7 +44,7 @@ mypy==0.812
     # via -r test-requirements.in
 nodeenv==1.6.0
     # via pre-commit
-oauthlib==3.1.0
+oauthlib==4.0.0
     # via -r test-requirements.in
 packaging==20.9
     # via
